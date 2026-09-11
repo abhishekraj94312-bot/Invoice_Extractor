@@ -1,0 +1,6 @@
+{
+  "name": "19_AI_Invoice_Extractor",
+  "category": "Business",
+  "description": "Extract invoice fields from OCR/text and return structured JSON.",
+  "ai": "IBM watsonx.ai foundation model"
+}
